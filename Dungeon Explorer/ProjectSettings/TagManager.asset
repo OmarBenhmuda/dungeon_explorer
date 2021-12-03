@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - spikes
+  - ground
+  - door
+  - portal
+  - portal1
+  - collectable_sand
+  - piled_sand
+  - portal2
+  - tube
+  - shovel
+  - flashlight
+  - battery
+  - shovel_reach
+  - key
+  - lasso
+  - panel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 1347263793
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
